@@ -20,7 +20,6 @@ Also here are the screenrecordings
 [Screencast from 01-07-2026 12:18:40 ALASIRI.webm](https://github.com/user-attachments/assets/e70398c5-a244-4c29-9fd6-f0bf3ed0110d)
 [Screencast from 01-07-2026 12:19:19 ALASIRI.webm](https://github.com/user-attachments/assets/61a7fb7e-4bd3-43fb-89e3-7ed2c3713efc)
 [Screencast from 01-07-2026 12:20:14 ALASIRI.webm](https://github.com/user-attachments/assets/372d4244-08af-48d9-8524-9b5bd2786fde)
-[Screencast from 07-05-2026 08:11:08 ASUBUHI.webm](https://github.com/user-attachments/assets/93e3197b-959e-416f-ac10-452fc23e4b80)
 [Screencast from 01-07-2026 12:22:27 ALASIRI.webm](https://github.com/user-attachments/assets/1858b505-fee1-47f1-b1a3-fc564ddf9c2d)
 [Screencast from 01-07-2026 12:22:01 ALASIRI.webm](https://github.com/user-attachments/assets/da15b50c-4af6-4d01-a52c-72ade1e5e1a4)
 [Screencast from 01-07-2026 12:21:31 ALASIRI.webm](https://github.com/user-attachments/assets/b39b0377-39be-4f58-bfa3-88fd18ac8afd)
