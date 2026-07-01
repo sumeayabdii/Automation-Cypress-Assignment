@@ -1,4 +1,4 @@
-<img width="736" height="1308" alt="hena" src="https://github.com/user-attachments/assets/021794c0-b0b6-48df-816d-814d01f64a75" />What I Learnt from this assignment;
+What I Learnt from this assignment;
 
 How Cypress runs in the browser and how to make this tests faster.
 How to organize tests using describe(), it() , before(), beforeEach(),after and afterEach().
