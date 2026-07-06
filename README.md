@@ -1,4 +1,4 @@
-[Screencast from 06-07-2026 01:30:03 ALASIRI.webm](https://github.com/user-attachments/assets/65295f78-802d-4560-b80c-38dcbbc2306b)What I Learnt from this assignment;
+What I Learnt from this assignment;
 
 How Cypress runs in the browser and how to make this tests faster.
 How to organize tests using describe(), it() , before(), beforeEach(),after and afterEach().
